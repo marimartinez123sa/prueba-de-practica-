@@ -1,0 +1,14 @@
+Algunas herramientas de monitoreo y control para centro de datos son:
+PRTG Newtwork Monitor
+Utiliza protocolos como SNMP, WNI , SSL, HTTP, FTP, SSH o DHCP para monitorear la red.
+ManageEngine OpManager 
+Monitorea servidores físicos y virtuales, ofrece paneles para las  las terminales y VM con peor rendimiento.
+AggreGate Lot  Platform
+Monitorea el estado, el rendimiento y el uso del ancho de banda de las interfaces de enrutador / switch.
+Grafana 
+Visualiza datos de una amplia gama de fuentes y permite crear paneles dinámicos para realizar un seguimiento del rendimiento.
+VCOM de Eaton
+Software para la gestión de infraestructura en el centro de datos que permite monitorear, visualizar y controlar los dispositivos.
+Otras herramientas de monitoreo de redes son: 
+Nagios, Zabbix, Pandora, FMS, Solarwinds, GroundWork, Zenoss, Monitis, Icinga.
+Las herramientas de monitoreo y observabilidad son aplicaciones y sistemas que recopilan, analizan y visualizan datos relacionados con el rendimiento, la disponibilidad y el comportamiento de los sistemas y aplicaciones.
